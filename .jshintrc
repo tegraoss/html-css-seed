@@ -1,0 +1,11 @@
+{
+  "esversion": 6,
+  "undef": true,
+  "unused": true,
+  "bitwise": false,
+  "eqeqeq": true,
+  "newcap": true,
+  "maxdepth": 2,
+  "globals": {
+  }
+}

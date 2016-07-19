@@ -1,0 +1,14 @@
+{
+  "name": "thunders",
+  "description": "",
+  "authors": [
+    "Carlos A. Ferrari <caferrari@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
