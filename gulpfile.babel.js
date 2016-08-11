@@ -28,7 +28,7 @@ gulp.task('scss', () =>
     outputStyle: 'compressed'
   }).on('error', sass.logError))
   .pipe(autoprefixer({
-    "browsers": ["last 4 version"]
+    "browsers": ["last 20 version"]
   }))
   .pipe(sourcemaps.write('../maps'))
   .pipe(gulp.dest('public/css/'))
